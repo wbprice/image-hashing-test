@@ -1,0 +1,20 @@
+{
+  "name": "image-hashing-test",
+  "version": "0.1.0",
+  "description": "Demonstrates issues with hashing stringified-images.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbprice/image-hashing-test.git"
+  },
+  "author": "Blaine Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbprice/image-hashing-test/issues"
+  },
+  "homepage": "https://github.com/wbprice/image-hashing-test#readme"
+}
